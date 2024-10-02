@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Dhruv's RentEase
 
 Welcome to the **most unnecessary project** you'll ever love. 😅
 
